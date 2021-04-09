@@ -14,6 +14,7 @@ Exercise 2
 • In Home, Create a method named ”contact” that will return a String
 • Add ”@GetMapping("/contact ")” annotation on the method
 • Create ”contact.html” at ”/src/main/resources/templates”
+
 • Add a Form that takes a text input • Method = Post
 • In Home, Create a method named ”contact” that will take a String as input and return a String
 • Add ”@PostMapping("/contact ")” annotation on the method
